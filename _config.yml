@@ -1,5 +1,5 @@
-title:            Site Title
-description:      Describe your website here.
+title:            Test
+description:      This is a test
 disqus_shortname: 
 reading_time:     true
 words_per_minute: 200
@@ -9,10 +9,10 @@ url:
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Gavin Forziati
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
-  email:          you@email.com
+  bio:            "I am on a holy crusade to remove all the Fortnite losers from this world."
+  email:          gf3869@s.maynard.k12.ma.us
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
